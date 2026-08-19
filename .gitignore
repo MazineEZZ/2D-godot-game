@@ -1,0 +1,9 @@
+# Godot 4 cache and imports
+.godot/
+.import/
+
+# Imported translations and temporary files
+*.translation
+*.tmp
+export.cfg
+export_credentials.cfg
